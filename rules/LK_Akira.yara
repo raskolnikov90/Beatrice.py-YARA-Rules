@@ -20,7 +20,7 @@ rule Akira_LKBEatrice {
         $misc2 = "BEGIN PUBLIC KEY" ascii
         $misc3 = "recovery_support@protonmail" ascii
         $misc4 = "AV_Facet_base" ascii
-        $misc5 = "Saturday"
+        $misc5 = "Saturday" ascii
 
         $b1 = {42 0f b6 4c 0d ?? 83 e9 ?? 44 6b c1 ?? b8 09 04 02 81 41 f7 e8 41 03 d0 c1 fa 06 8b c2 c1 e8 1f 03 d0 6b c2 7f 44 2b c0 41 83 c0 7f b8 09 04 02 81 41 f7 e8 41 03 d0 c1 fa 06 8b c2 c1 e8 1f 03 d0 6b c2 7f 44 2b c0 46 88 44 0d ?? 49 ff c1 49 83 f9 ?? 72}
 
